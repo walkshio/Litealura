@@ -1,0 +1,8 @@
+BASE DE DATOS
+CREATE DATABASE literalura;
+USE literalura;
+
+-- Tabla de autores
+SELECT * FROM autores;
+-- Tabla de libros
+SELECT * FROM libros;
