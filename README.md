@@ -21,3 +21,14 @@ LiterAlura es una aplicación de gestión de libros y autores que consume la API
 ### ⚙️ Configuración
 Es necesario configurar el archivo `application.properties` con las credenciales locales de MySQL y haber creado previamente la base de datos `literalura`.
 
+
+## 📸 Demostración
+![Menú Principal]
+
+<img width="508" height="212" alt="image" src="https://github.com/user-attachments/assets/d81de225-a39c-42b0-beec-d3f4b0fa252d" />
+
+
+*Ejemplo de consulta en la base de datos:*
+
+<img width="574" height="548" alt="image" src="https://github.com/user-attachments/assets/6f8a2958-4f08-4284-84de-be28bab756af" />
+
